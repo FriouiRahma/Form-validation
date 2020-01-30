@@ -1,0 +1,33 @@
+body{
+    background: #cf6a87;
+}
+form {
+    width: 350px; 										 
+    margin: 0 auto; 
+    
+	
+}
+input{
+    border: 2px burlywood salmon;
+    border-radius: 4px;
+    width: 100%;
+    padding: 9px 20px;
+    margin: 5px 0;
+    box-sizing: border-box; 
+    background:#ffcccc;
+}
+textarea{
+    border: 2px burlywood salmon;
+    border-radius: 4px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    background: #ffcccc;
+}
+.btn-res{
+  background:  #B33771;
+}
+.btn-send{
+    background: slateblue;
+}
